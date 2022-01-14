@@ -6,5 +6,7 @@ I'll be constantly updating this with my notes and resources related to the Clou
 
 YOUR ARE ALL WELCOME TO JOIN IN & LEARN WITH ME! 🚀
 
+Check out the CONTRIBUTORS.md to know more about getting started with this journey!! 
+
 Happy Learning 
 
