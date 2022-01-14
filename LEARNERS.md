@@ -5,7 +5,7 @@ These are the wonderful people who have committed to go along this amazing learn
 Thank you! 🙌
 
 ## Learners:
-
+| Name/GitHub | Your Goal |
 | [Kunal Verma](https://github.com/verma-kunal) | Targeting the AWS Cloud Practitioner Certification & exploring the world of Cloud |
 
 
