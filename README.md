@@ -1,4 +1,4 @@
-# Learning AWS (Amazon Web Services)
+# Learning about Cloud & AWS (Amazon Web Services)
 
 ## [✍️ Your Name]'s AWS Learning Journey
 
