@@ -10,7 +10,7 @@ Let's Begin 🚀
 ### Tasks:
 
 1. The first step would be to add in your name in [LEARNERS.md](), in order for you to commit to learning something new each day and meet the fellow learners, who'll be learning along with you! 
-2. Then, you can head over to the `Journey` folder and create a folder, giving that your name. 
+2. Then, you can head over to the [Journey](https://github.com/verma-kunal/AWS-Learnings/tree/main/Journey) folder and create a folder, giving that your name. 
 3. This will be the folder, where you can constantly update your learnings each day or however seems comfortable with you, by creating different files, with the convention `Day-n`
 
 ## Brief Guide:
@@ -37,7 +37,7 @@ You can add your line to the bottom of the previous line: (would eventually incr
 ```
 
 ### Creating your learnings folder:
-- You can simply create a folder with `your name` inside `Journey` folder!
+- You can simply create a folder with `your name` inside [Journey](https://github.com/verma-kunal/AWS-Learnings/tree/main/Journey) folder!
 - Update your learnings each-day in this particular folder
 
 
