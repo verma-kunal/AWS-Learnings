@@ -32,7 +32,8 @@ git checkout -b add-kunalverma-to-journey
 - Add your name to the [LEARNERS.md]() with your name, github handle, and share about your main goal of joining the journey.  
 You can add your line to the bottom of the previous line: (would eventually increase)
 ```
-| [Kunal Verma](https://github.com/verma-kunal) | Targeting the AWS Cloud Practitioner Certification & exploring the world of Cloud |
+| -------- | -------- |
+| [Kunal Verma](https://github.com/verma-kunal)     | Targeting the AWS Cloud Practitioner Certification & exploring the world of Cloud     |
 ```
 
 ### Creating your learnings folder:
